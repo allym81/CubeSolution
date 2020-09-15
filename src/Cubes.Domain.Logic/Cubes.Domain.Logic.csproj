@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Cubes.Domain.Core\Cubes.Domain.Core.csproj" />
+    <ProjectReference Include="..\Cubes.Domain.Core\Cubes.Domain.Core.csproj" />
   </ItemGroup>
 
 </Project>
